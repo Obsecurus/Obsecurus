@@ -1,3 +1,6 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=obsecurus)](https://git.io/streak-stats)
+
+
 [![Obsecurus's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsecurus&show_icons=true&theme=radical&count_private=true)]
 
 - 👋 Hi, I’m @Obsecurus
